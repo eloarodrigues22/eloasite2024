@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body
+{
+backgriund-color: pink;
+color: blue;
+font-size: 13pt;
+font-family: aril;
+}
+
+h1
+{
+  color: black;
+  font-size: 20pt;
+}
