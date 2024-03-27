@@ -5,11 +5,28 @@ body
 backgriund-color: pink;
 color: blue;
 font-size: 13pt;
-font-family: aril;
+font-family: arial;
 }
 
 h1
 {
-  color: black;
-  font-size: 20pt;
+  tipo de letra: 
+  color: orange;
+  font-size: 30pt;
 }
+
+h2
+{
+tipo da letra:
+cor da letra: 
+tamanho da letra: 20pt;
+}
+
+a
+{
+tipo de letra: 
+cor de letra:
+tamanho: 15pt;
+sem linhas sublinhadas 
+}
+
